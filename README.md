@@ -1,38 +1,63 @@
 # 1dent1vez
-## Building Resilient Infrastructure & Systems
 
-Me interesa la construcción de entornos digitales estables y el endurecimiento de arquitecturas en la nube. Actualmente exploro la intersección entre la infraestructura escalable y el diseño de sistemas seguros por defecto.
+## Ing. TIC → Cloud Security Engineer
+
+Construyendo el camino desde la teoría hasta la infraestructura segura en producción.
+Actualmente: proyectos prácticos de seguridad + primeros pasos en entornos cloud.
 
 ---
 
-### 🛠 Learning & Focus
+###  Trayectoria
+```
+Ingeniería en TIC  →  Ciberseguridad (hands-on)  →  Cloud Security Engineering
+```
 
-| Área | Tecnologías e Intereses |
+El objetivo es claro: diseñar y defender infraestructura cloud desde adentro.
+No el que llega a parchear al final, sino el que construye seguro desde el inicio.
+
+---
+
+###  Stack en Construcción
+
+| Capa | Tecnologías |
 | :--- | :--- |
-| **Sistemas y Nube** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws) |
-| **Automatización** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) |
-| **Infraestructura** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square) |
+| **Scripting & Herramientas** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Sistemas** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Cloud (aprendiendo)** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
+| **Seguridad** | Network scanning · Password analysis · Recon tools |
 
 ---
 
-### 📊 Activity & Progress
+###  Proyectos Activos
+
+| Proyecto | Descripción |
+| :--- | :--- |
+| [porT_scanneR](https://github.com/1dent1vez/porT_scanneR) | Scanner de puertos en Python — reconocimiento de red |
+| [PassworD-StrengtH-CheckeR-BreacH-DetectoR](https://github.com/1dent1vez/PassworD-StrengtH-CheckeR-BreacH-DetectoR) | Análisis de fortaleza + detección de credenciales comprometidas |
+| `[en progreso]` | Proyectos de infraestructura cloud segura — *coming soon* |
+
+---
+
+###  Actividad
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1dent1vez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dent1vez&layout=compact&theme=tokyonight&hide=html,css,javascript&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=1dent1vez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dent1vez&layout=compact&theme=tokyonight&hide=html,css,javascript&hide_border=true" />
 </p>
 
 ---
 
-### 🖋️ Philosophy
+###  Principios
 
-* **Automatización:** Si una tarea es repetitiva, debe ser código.
-* **Seguridad:** No es un parche final, es un cimiento desde el día cero.
-* **Curiosidad:** Documentar cada paso del aprendizaje para construir soluciones más robustas.
+> **Seguridad no es una capa adicional — es el diseño.**
+
+- Si algo puede automatizarse, debe ser código.
+- Documentar el aprendizaje es parte del proceso, no un extra.
+- La curiosidad técnica sin ética no construye nada útil.
 
 ---
 
-### 📬 Contacto
+###  Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
