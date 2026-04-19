@@ -1,62 +1,60 @@
 <div align="center">
+  
+.___    .___             __  .__                     
+|   | __| _/____   _____/  |_|__|__  __ ____ ________
+|   |/ __ |/ __ \ /    \   __\  \  \/ // __ \\___   /
+|   / /_/ \  ___/|   |  \  | |  |\   /\  ___/ /    / 
+|___\____ |\___  >___|  /__| |__| \_/  \___  >_____ \
+         \/    \/     \/                   \/      \/
+         
+</div>$ whoami
+> user: 1dent1vez
+> role: Ing. TIC | Cybersecurity | Cloud Security Engineering
+> bio:  "Construyendo herramientas de seguridad mientras aprendo la infraestructura donde residen."
 
-# 1dent1vez
+$ cat ~/trayectoria.txt
+[+] Estado actual: Ing. en TIC
+[+] Enfoque:       Ciberseguridad (hands-on)
+[+] Objetivo:      Cloud Security Engineer 
 
-**Ing. TIC · Ciberseguridad · → Cloud Security Engineering**
+$ ls -l --tree /stack/
+.
+├── 01_scripting_&_seguridad
+│   └── [Python, Bash, Git]
+├── 02_sistemas
+│   └── [Linux, Docker]
+├── 03_cloud_learning (learning)
+│   └── [AWS, Terraform]
+└── 04_hard_skills
+    └── [Network recon, Password analysis, CTF]
 
-Construyo herramientas de seguridad mientras aprendo la infraestructura donde van a vivir.<br>
-Interesado en el punto donde la nube y la seguridad ofensiva se encuentran.
+$ finger projects
+[Project: porT_scanneR]
+    - Status: Stable
+    - Desc:   Scanner de puertos y reconocimiento de red.
+    - Stack:  Python
+    - URL:    [https://github.com/1dent1vez/porT_scanneR](https://github.com/1dent1vez/porT_scanneR)
 
-</div>
+[Project: PassworD-StrengtH-CheckeR]
+    - Status: Stable
+    - Desc:   Análisis de fortaleza + detección de brechas.
+    - Stack:  Python
+    - URL:    [https://github.com/1dent1vez/PassworD-StrengtH-CheckeR-BreacH-DetectoR](https://github.com/1dent1vez/PassworD-StrengtH-CheckeR-BreacH-DetectoR)
 
----
+[Project: Cloud-Security-Lab]
+    - Status: En progreso
+    - Desc:   Infraestructura cloud hardened desde cero.
+    - Stack:  AWS, Terraform
 
-### 📍 Trayectoria
-```
-✓ Ing. en TIC   →   ⬡ Ciberseguridad (hands-on)   →   ○ Cloud Security Engineer
-```
+$ cat /etc/principles.conf
+- SECURITY_FIRST=true  # No es un parche, es la base del diseño.
+- AUTOMATE_ALL=true    # Si es repetitivo, es código.
+- DOCUMENT_STEP=true   # El proceso es el producto.
 
----
+$ echo $CONTACT_INFO
+- Email:    ghael.engineer@gmail.com
+- Status:   Always learning.
 
-### 🛠 Stack en construcción
+ Actividad de Sistema
 
-| Área | Herramientas |
-| :--- | :--- |
-| **Scripting & seguridad** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Sistemas** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Cloud** *(aprendiendo)* | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
-| **Seguridad** | `Network recon` · `Password analysis` · `CTF` |
-
----
-
-### 🧪 Proyectos
-
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| [porT_scanneR](https://github.com/1dent1vez/porT_scanneR) | Scanner de puertos · reconocimiento de red | Python |
-| [PassworD-StrengtH-CheckeR-BreacH-DetectoR](https://github.com/1dent1vez/PassworD-StrengtH-CheckeR-BreacH-DetectoR) | Análisis de fortaleza + detección de credenciales comprometidas | Python |
-| `[en progreso]` Cloud Security Lab | Infraestructura cloud hardened desde cero | AWS · Terraform |
-
----
-
-### 📊 Actividad
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=1dent1vez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dent1vez&layout=compact&theme=tokyonight&hide=html,css,javascript&hide_border=true" />
-</p>
-
----
-
-### 🧭 Principios
-
-- **Seguridad** — No es un parche al final. Es el diseño desde el día cero.
-- **Automatización** — Si es repetitivo, es código.
-- **Aprendizaje** — Documentar cada paso. El proceso también es el producto.
-
----
-
-### 📬 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+<p align="left"><img height="165" src="https://github-readme-stats.vercel.app/api?username=1dent1vez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dent1vez&layout=compact&theme=tokyonight&hide=html,css,javascript&hide_border=true" /></p>
