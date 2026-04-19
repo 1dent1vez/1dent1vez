@@ -4,21 +4,21 @@
 
 ---
 
-```bash
+<pre>
 $ whoami
 > user: 1dent1vez
 > role: Ing. TIC | Cybersecurity | Cloud Security Engineering
 > bio:  "Construyendo herramientas de seguridad mientras aprendo la infraestructura donde residen."
-```
+</pre>
 
-```bash
+<pre>
 $ cat ~/trayectoria.txt
 [+] Estado actual: Ing. en TIC
 [+] Enfoque:       Ciberseguridad (hands-on)
 [+] Objetivo:      Cloud Security Engineer
-```
+</pre>
 
-```bash
+<pre>
 $ ls -l --tree /stack/
 .
 ├── 01_scripting_&_seguridad
@@ -29,9 +29,9 @@ $ ls -l --tree /stack/
 │   └── [AWS, Terraform]
 └── 04_hard_skills
     └── [Network recon, Password analysis, CTF]
-```
+</pre>
 
-```bash
+<pre>
 $ finger projects
 
 [Project: porT_scanneR]
@@ -50,20 +50,20 @@ $ finger projects
     - Status: En progreso
     - Desc:   Infraestructura cloud hardened desde cero.
     - Stack:  AWS, Terraform
-```
+</pre>
 
-```bash
+<pre>
 $ cat /etc/principles.conf
 - SECURITY_FIRST=true  # No es un parche, es la base del diseño.
 - AUTOMATE_ALL=true    # Si es repetitivo, es código.
 - DOCUMENT_STEP=true   # El proceso es el producto.
-```
+</pre>
 
-```bash
+<pre>
 $ echo $CONTACT_INFO
 - Email:    ghael.engineer@gmail.com
 - Status:   Always learning.
-```
+</pre>
 
 ---
 
