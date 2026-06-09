@@ -68,8 +68,11 @@ $ echo $CONTACT_INFO
 ---
 
 ###  Actividad de Sistema
-
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=1dent1vez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dent1vez&layout=compact&theme=tokyonight&hide=html,css,javascript&hide_border=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=1dent1vez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub de 1dent1vez" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dent1vez&layout=compact&theme=tokyonight&hide=html,css,javascript&hide_border=true" alt="Idiomas más usados por 1dent1vez" />
+  </a>
 </p>
